@@ -1,6 +1,6 @@
 #! python3
 # -*- coding: utf-8 -*-
-
+# --
 # Calculando numeros primos
 
 print('Descubra se um número é primo ou não')
