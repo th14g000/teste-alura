@@ -2,8 +2,8 @@
 # -*- coding: utf-8 -*-
 # Obs: Teste com titulo
 # Calculando numeros primos
-#
 # Código abaixo
+
 
 print('Descubra se um número é primo ou não')
 print('Numeros de 1 a 100')
