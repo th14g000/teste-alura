@@ -1,9 +1,7 @@
 #! python3
 # -*- coding: utf-8 -*-
 # Obs: Teste com titulo
-# 2 - Calculando numeros primos
-
-# Código abaixo
+# 1 - Calculando numeros primos
 
 print('Descubra se um número é primo ou não')
 print('Numeros de 1 a 100')
