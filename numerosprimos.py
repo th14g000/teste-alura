@@ -4,6 +4,7 @@
 # Calculando numeros primos
 # Código abaixo
 
+# Alteração 1
 
 print('Descubra se um número é primo ou não')
 print('Numeros de 1 a 100')
